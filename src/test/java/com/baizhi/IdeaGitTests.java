@@ -16,4 +16,10 @@ class IdeaGitTests {
         System.out.println("----");
     }
 
+    @Test
+    void testDevadd() {
+        int a=12;
+        int b=23;
+        System.out.println("---------");
+    }
 }
