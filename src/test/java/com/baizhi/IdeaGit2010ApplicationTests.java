@@ -8,6 +8,7 @@ class IdeaGit2010ApplicationTests {
 
     @Test
     void contextLoads() {
+        System.out.println("---------");
     }
 
 }
