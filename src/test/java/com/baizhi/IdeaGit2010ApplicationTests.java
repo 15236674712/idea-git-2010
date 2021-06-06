@@ -11,4 +11,8 @@ class IdeaGit2010ApplicationTests {
         System.out.println("---------");
     }
 
+    public static void main(String[] args) {
+        int a=10;
+    }
+
 }
