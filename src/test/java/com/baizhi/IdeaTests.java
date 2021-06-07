@@ -16,6 +16,7 @@ class IdeaTests {
         System.out.println("----");
         String str="aaa";
         int aaa=13;
+        System.out.println(aaa);
     }
 
 }
