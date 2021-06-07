@@ -17,6 +17,11 @@ class IdeaTests {
         String str="aaa";
         int aaa=13;
         System.out.println(aaa);
+
+        int a1=10;
+        int a2=20;
+        System.out.println(a1+a2);
+
     }
 
 }
