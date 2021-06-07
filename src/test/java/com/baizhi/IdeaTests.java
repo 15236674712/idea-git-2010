@@ -20,8 +20,12 @@ class IdeaTests {
 
         int a1=10;
         int a2=20;
-        System.out.println(a1+a2);
+        int a3=23;
+        String strs="hello";
+        String s=strs+a3;
 
+        System.out.println(s);
+        System.out.println(a1+a2);
     }
 
 }
